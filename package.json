@@ -1,0 +1,23 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "This is react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deem4sters/Assignment.git"
+  },
+  "author": "Deependra Pokhrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deem4sters/Assignment/issues"
+  },
+  "homepage": "https://github.com/Deem4sters/Assignment#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4"
+  }
+}
